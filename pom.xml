@@ -10,7 +10,7 @@
 	<properties>
 		<java-version>1.8</java-version>
 		<org.springframework-version>4.3.8.RELEASE</org.springframework-version>
-		<org.sec-version>4.1.3.RELEASE</org.sec-version>
+		<org.sec-version>5.5.7</org.sec-version>
 		<org.aspectj-version>1.8.9</org.aspectj-version>
 		<org.slf4j-version>1.7.12</org.slf4j-version>
 		<jackson.library>1.9.13</jackson.library>
